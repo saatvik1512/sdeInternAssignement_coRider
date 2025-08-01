@@ -12,6 +12,13 @@ venv.bak/
 pip-log.txt
 pip-delete-this-directory.txt
 
+# PyCharm / VS Code / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
 # macOS
 .DS_Store
 
